@@ -1,0 +1,1 @@
+A comprehensive repository for motor fault diagnosis experiments using the Paderborn Bearing Dataset. This project explores deep learning-based feature extraction, ensemble modeling (CNNs, Transformers), and data augmentation techniques to enhance fault classification. Includes automated pipelines for preprocessing, training, and evaluation.
