@@ -30,7 +30,7 @@ Running the notebooks **in Google Colab** is highly recommended due to:
 ### 🛠 **Steps to Run the Notebook on Google Colab**  
 
 #### ✅ **Step 1: Download Dataset from Kaggle**  
-1. Visit the [Kaggle dataset repository](https://www.kaggle.com/) (Replace with actual dataset link).  
+1. Visit the [Kaggle dataset repository]([https://www.kaggle.com/](https://www.kaggle.com/datasets/dippatel03/paderborn-db)).  
 2. Download the dataset to your local system.  
 3. Upload the dataset to **Google Drive** for easy access in Colab.  
 
