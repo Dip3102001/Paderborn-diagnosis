@@ -39,3 +39,22 @@ Modify the `root_dir` variable to point to the directory where the dataset is st
 
 ```python
 root_dir = "/content/drive/MyDrive/Dataset/"
+```
+
+#### ✅ **Step 3: Initialize Download Directory**  
+Create a directory to store results:  
+
+```python
+import os
+
+result_dir = "/content/drive/MyDrive/Results/"
+os.makedirs(result_dir, exist_ok=True)
+```
+
+#### ✅ **Step 4: Start Training the Model**  
+Execute all cells sequentially to train the model using GPU.  
+
+---
+
+## 🏆 **Conclusion**  
+Following these steps ensures seamless execution of the notebook on **Google Colab**, leveraging its powerful **GPU resources** for efficient model training. 🚀
